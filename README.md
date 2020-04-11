@@ -1,0 +1,3 @@
+# FlightDelayPreiction
+
+Implemented Linear Regression, Ridge Regression, Random Forest and Boosted Linear Regression on an airline delay dataset to predict the delay time of the given input. Implemented K neighbors classifier, Logistic regression and decision trees on an airline delay dataset to predict if the flight is delayed. Based on the Mean Squared Error and R2 score, Linear regression and Boosted linear regression produced the best result and Random Forest Regression without intercept had the highest MSE, hence, the least preferred method for predicting delays. The two best method for classification were Logistic regression and K neighbors classifier, both of them yielding the highest F1, Precision and Recall
